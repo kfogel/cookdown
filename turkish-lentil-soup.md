@@ -6,7 +6,7 @@ Finely chop **1 large onion** and saut&eacute; in **olive oil** in a
 big pot until translucent.  While onion is saut&eacute;eing, rinse **2
 cups red lentils**.
 
-Add to potc: **16 cups vegetable broth** (or 8 cups broth + 8 cups
+Add to pot: **16 cups vegetable broth** (or 8 cups broth + 8 cups
 water), lentils, **1 cup finely ground bulgur wheat**, **1/4 cup
 tomato paste**, **1 tsp red pepper flakes**.
 
