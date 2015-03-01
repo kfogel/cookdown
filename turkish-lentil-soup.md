@@ -6,9 +6,9 @@ Finely chop **1 large onion** and saut&eacute; in **olive oil** in a
 big pot until translucent.  While onion is saut&eacute;eing, rinse **2
 cups red lentils**.
 
-Add to potc: **16 cups vegetable broth**, lentils, **1 cup finely
-ground bulgur wheat**, **1/4 cup tomato paste**, **1 tsp red pepper
-flakes**.
+Add to potc: **16 cups vegetable broth** (or 8 cups broth + 8 cups
+water), lentils, **1 cup finely ground bulgur wheat**, **1/4 cup
+tomato paste**, **1 tsp red pepper flakes**.
 
 Bring to a simmer and let simmer for appx 1 hour, stirring
 occasionally to prevent sticking.  At end, add **2 tbsp dried mint**
