@@ -16,16 +16,17 @@ are referred to without their associated quantities.  For example:
     
 I'm not sure whether that standard format evolved because it best met
 cooks' needs, or because it was easy to typeset, or perhaps through
-some combination of the two.  I find it difficult to flip my reading
-focus back and forth between the ingredient list and the narrative
-paragraphs.  The advantage, though, is that you can see exactly what
-is needed for the recipe at a glance, so you can adjust your shopping
-list or get all the ingredients out before you start cooking.
+some combination of the two.  Anyway, I find it difficult to flip my
+reading focus back and forth between the ingredient list and the
+narrative section.  The advantage, presumably, is that you can see
+exactly what is needed for the recipe at a glance, so you can adjust
+your shopping list, or get all the ingredients out before you start
+cooking.
 
-In Cookdown, I'd like to try a different format: just have the
-paragraph of instructions, and write the quantities inline next to the
-ingredients, **in boldface** so it's still easy to scan the recipe for
-ingredients and quantities if you need to prepare a shopping list.
+For Cookdown, I'd like to try a different style: just have a narrative
+portion, but write the quantities inline next to the ingredients, **in
+boldface** so it's still easy to scan the recipe for ingredients and
+quantities if you need to prepare a shopping list.
 
 > Bring **2 cups vegetable broth** to a simmer; place **1 onion** in
 > broth and maintain simmer for 20 minutes.  Combine **1/4 cup tomato
