@@ -17,8 +17,8 @@ are referred to without their associated quantities.  For example:
 I'm not sure whether that standard format evolved because it best met
 cooks' needs, or because it was easy to typeset, or perhaps through
 some combination of the two.  Anyway, I find it difficult to flip my
-reading focus back and forth between the ingredient list and the
-narrative section.  The advantage, presumably, is that you can see
+reading focus back and forth between the narrative section and the
+ingredient list.  The advantage, presumably, is that you can see
 exactly what is needed for the recipe at a glance, so you can adjust
 your shopping list, or get all the ingredients out before you start
 cooking.
