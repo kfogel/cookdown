@@ -13,7 +13,7 @@ celery** similarly, using the oil from the first stage.  Once they're
 partly cooked, put the onions and ginger back in, add ~3 heaping
 tablespoons of **Madras curry powder**, and stir.
 
-Pour the saut&eacuteed vegetables into the broth with the chickpeas.
+Pour the saut&eacute;ed vegetables into the broth with the chickpeas.
 Bring to a simmer and let simmer for appx 5 hours, stirring
 occasionally.  An hour or two in, add **2 heads of star anise**.
 
