@@ -11,7 +11,10 @@ Chop **2 onions** semi-finely and saut&eacute; in **olive oil** with
 and set aside.  Saut&eacute; some **chopped carrots** and **chopped
 celery** similarly, using the oil from the first stage.  Once they're
 partly cooked, put the onions and ginger back in, add ~3 heaping
-tablespoons of **Madras curry powder**, and stir.
+tablespoons of **Madras curry powder**, and stir just enough to mix
+the curry powder well.  (Don't stir for too long, because you don't
+want to overcook these vegetables -- they're about to get put into
+simmering broth for 5 hours or so.)
 
 Pour the saut&eacute;ed vegetables into the broth with the chickpeas.
 Bring to a simmer and let simmer for appx 5 hours, stirring
