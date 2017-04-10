@@ -18,8 +18,8 @@ Bring to a simmer and let simmer for appx 5 hours, stirring
 occasionally.  An hour or two in, add **2 heads of star anise**.
 
 Near the end, add **a bunch of fresh mint leaves, chopped or torn**,
-remove some of the broth if desired, and add a cup or two of coconut
-milk.  Stir to mix, and let the coconum milk be in the broth long
+remove some of the broth if desired, and add a cup or two of **coconut
+milk**.  Stir to mix, and let the coconut milk be in the broth long
 enough for the broth to return to original temperature.
 
 Serve over rice.
