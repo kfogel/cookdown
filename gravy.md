@@ -2,7 +2,7 @@
 
 ## If regular or if gluten free using 1-to-1 flour replacement:
 
-Prepare roux: melt **⅓ cup butter**, and gradually whisk in **⅓ cup
+Prepare roux: melt **1/3 cup butter**, and gradually whisk in **1/3 cup
 corn starch**, reducing heat as needed.  Whisk until golden brown.
 (Can cover and chill if preparing in advance.)
 
