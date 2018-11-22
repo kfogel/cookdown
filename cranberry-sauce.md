@@ -2,7 +2,7 @@
 
 Rinse **1 bag of cranberries** with cool water.  Place cranberries in
 pot and add **1 cup of cranberry juice** (or some other juice, but
-cranberry juice is normal).  Add **1 cup of maple syrup**, and *a few
+cranberry juice is normal).  Add **1 cup of maple syrup**, and **a few
 tablespoons of freshly-juiced orange juice** (could be lemon juice
 and/or orange zest).  Stir it all.  Bring to a boil, then reduce to
 medium low heat and cook for about 10-20 minutes or until it's thick;
